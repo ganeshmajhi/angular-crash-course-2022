@@ -25,3 +25,7 @@
 - Array Methods (forEach, map, filter, etc )
 - Fetch API / HTTP Requests
 - NPM (Node Package Manager)
+
+## Angular Components
+- Components are pieces of UI including the templete(html), logic and styling.
+- Components are reseable and can be embedded into the template as an XML-like tag.
