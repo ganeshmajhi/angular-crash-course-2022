@@ -17,3 +17,11 @@
 - Test-Friendly
 - Popular in Enterprise Business.
 
+# What should you learn first?
+
+- Like with any framework, you should be comfortable with the undelying language first, which is Javascript.
+- Javascript Fundamentals.
+- Async Programming (Promises)
+- Array Methods (forEach, map, filter, etc )
+- Fetch API / HTTP Requests
+- NPM (Node Package Manager)
